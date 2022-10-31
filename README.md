@@ -1,6 +1,6 @@
 # Caixa-eletr-nico
-Um programa de caixa eletrônico simples de modo interativo que possa 
-consultar saldo, fazer depósito e retirar dinheiro.
+Uma aplicação para simular um caixa automático simples, capaz de realizar algumas
+operações.
 
 Funcionalidades:
 
