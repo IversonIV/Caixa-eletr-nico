@@ -1,4 +1,5 @@
-# Caixa-eletr-nico
+# Aplicativo de caixa eletrônico feito em Haskell
+
 Uma aplicação para simular um caixa automático simples, capaz de realizar algumas
 operações.
 
